@@ -23,11 +23,11 @@ The frontend is responsible for displaying the live video stream and providing u
 
 ### Key Features
 - Displays live video stream from the backend.
-![alt text](image.png)
+![alt text](./assets/image.png)
 - Provides a "QoD Video Boost" button to enhance video quality.
-![alt text](image-1.png)
+![alt text](./assets/image-1.png)
 - Toggles between "QoD Video Boost" and "Stop QoD Session" buttons based on user interaction.
-![alt text](image-2.png)
+![alt text](./assets/image-2.png)
 
 ## Backend: ./backend/cv2Server.py
 The backend is responsible for capturing video from the camera, processing it using OpenCV, and serving it to the frontend via a Flask web server.
