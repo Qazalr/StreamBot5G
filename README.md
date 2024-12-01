@@ -1,5 +1,16 @@
-# Live Video Stream using NaC & 5G
+# Solution for Ultrahack Unbreakable Connectivity Hackathon
+![alt text](./assets/image-3.png)
 
+## Team Members
+- **Member 1**: [GitHub Profile](https://github.com/member1)
+- **Member 2**: [GitHub Profile](https://github.com/member2)
+- **Member 3**: [GitHub Profile](https://github.com/member3)
+- **Member 4**: [GitHub Profile](https://github.com/member4)
+- **Member 5**: [GitHub Profile](https://github.com/member5)
+- **Member 6**: [GitHub Profile](https://github.com/member6)
+- **Member 7**: [GitHub Profile](https://github.com/vlad-beresnev)
+
+# Live Video Stream using NaC & 5G
 ## Overview
 This project demonstrates a live video streaming application using Network as Code (NaC) and 5G technology. The project is divided into two main components: the frontend and the backend.
 
