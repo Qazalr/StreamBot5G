@@ -4,8 +4,8 @@
 ## Team Members
 - **Syed Jawad Akhtar**: [LinkedIn Profile](https://www.linkedin.com/in/syed-jawad-akhtar/)
 - **Reem Suleiman**: [LinkedIn Profile](https://www.linkedin.com/in/reem-suleiman/)
-- **Vlad Beresnev**: [LinkedIn Profile](https://www.linkedin.com/in/vlad-beresnev-5b6673269)
 - **Muhammad Omer Amjad**: [Linkedin Profile](https://www.linkedin.com/in/omeramjad/)
+- **Vlad Beresnev**: [LinkedIn Profile](https://www.linkedin.com/in/vlad-beresnev-5b6673269)
 - **David Vasquez**: [LinkedIn Profile](https://www.linkedin.com/in/baskelos/)
 - **Sergei Kleimenov**: [LinkedIn Profile](https://www.linkedin.com/in/sergei-kleimenov-13937419/)
 - **Juha Kela**: [LinkedIn Profile](https://www.linkedin.com/in/juhakela/)
