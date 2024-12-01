@@ -63,7 +63,7 @@ The backend is responsible for capturing video from the camera, processing it us
         return frames_response
 
 - Applies a Quality of Service (QoS) profile to optimize for low latency using NaC (Network as Code) by Nokia.
-![alt text](./assets/image.png)
+![alt text](./assets/image-4.png)
 
 ### Endpoints
 - `/video_feed`: Streams the live video feed to the frontend.
