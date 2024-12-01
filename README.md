@@ -8,7 +8,7 @@
 - **Member 4**: [GitHub Profile](https://github.com/member4)
 - **Member 5**: [GitHub Profile](https://github.com/member5)
 - **Member 6**: [GitHub Profile](https://github.com/member6)
-- **Member 7**: [GitHub Profile](https://github.com/vlad-beresnev)
+- **Vlad Beresnev**: [GitHub Profile](https://github.com/vlad-beresnev)
 
 # Live Video Stream using NaC & 5G
 ## Overview
