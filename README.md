@@ -2,13 +2,13 @@
 ![alt text](./assets/image-3.png)
 
 ## Team Members
-- **Member 1**: [GitHub Profile](https://github.com/member1)
-- **Member 2**: [GitHub Profile](https://github.com/member2)
-- **Member 3**: [GitHub Profile](https://github.com/member3)
-- **Member 4**: [GitHub Profile](https://github.com/member4)
-- **Member 5**: [GitHub Profile](https://github.com/member5)
-- **Member 6**: [GitHub Profile](https://github.com/member6)
-- **Vlad Beresnev**: [GitHub Profile](https://github.com/vlad-beresnev)
+- **Syed Jawad Akhtar**: [LinkedIn Profile](https://www.linkedin.com/in/syed-jawad-akhtar/)
+- **Reem Suleiman**: [LinkedIn Profile](https://www.linkedin.com/in/reem-suleiman/)
+- **Vlad Beresnev**: [LinkedIn Profile](https://www.linkedin.com/in/vlad-beresnev-5b6673269)
+- **Muhammad Omer Amjad**: [Linkedin Profile](https://www.linkedin.com/in/omeramjad/)
+- **David Vasquez**: [LinkedIn Profile](https://www.linkedin.com/in/baskelos/)
+- **Sergei Kleimenov**: [LinkedIn Profile](https://www.linkedin.com/in/sergei-kleimenov-13937419/)
+- **Juha Kela**: [LinkedIn Profile](https://www.linkedin.com/in/juhakela/)
 
 # Live Video Stream using NaC & 5G
 ## Overview
